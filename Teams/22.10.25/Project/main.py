@@ -91,12 +91,34 @@ print('\033[0m') # reset color to defaults
 
 # ---
 
+# print(
+# """
+# |\   \\\\__     \033[34mo\033[0m
+# | \_/    \033[32mo\033[0m \    \033[34mo\033[0m
+# > _   (( <_  \033[34moo\033[0m
+# | / \__+___/
+# |/     |/
+# """)
+
+class Color:
+    def __init__(self):
+        self.green = '\033[32m'
+        self.blue = '\033[34m'
+        self.close_symbol = '\033[0m'
+
+    def color_text(self, color, text):
+        return f'{color}{text}{self.close_symbol}'
+
+color = Color()
+
 print(
-"""
-|\   \\\\__     o
-| \_/    o \    o 
-> _   (( <_  oo  
-| / \__+___/      
+fr"""
+|\   \\\\__     {color.color_text(color.blue, 'o')}
+| \_/    {color.color_text(color.green, 'o')} \    {color.color_text(color.blue, 'o')}
+> _   (( <_  {color.color_text(color.blue, 'o')}
+| / \__+___/
 |/     |/
-"""
-)
+""")
+
+# ---
+
