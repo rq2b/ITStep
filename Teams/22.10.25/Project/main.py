@@ -100,17 +100,18 @@ print('\033[0m') # reset color to defaults
 # |/     |/
 # """)
 
+"""
+class Color:
+    def __init__(self):
+        self.green = '\033[32m'
+        self.blue = '\033[34m'
+        self.close_symbol = '\033[0m'
 
-# class Color:
-#     def __init__(self):
-#         self.green = '\033[32m'
-#         self.blue = '\033[34m'
-#         self.close_symbol = '\033[0m'
+    def color_text(self, color, text):
+        return f'{color}{text}{self.close_symbol}'
 
-#     def color_text(self, color, text):
-#         return f'{color}{text}{self.close_symbol}'
-
-# color = Color()
+color = Color()
+"""
 
 # print(
 # fr"""
@@ -123,7 +124,12 @@ print('\033[0m') # reset color to defaults
 
 # ---
 
+""" <> (right-left align chars)
 print(f'|{'Текст':<10}  |')
 print(f'|{'Текст':>10}  |')
 print(f"| {'Маська':<10} | {'760':>6} грн. |")
 print(f"| {'Буся':<10} | {'8500':>6} грн. |")
+"""
+
+# ---
+

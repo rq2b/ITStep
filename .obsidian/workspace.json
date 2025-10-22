@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "758fa278326b2b76",
+        "id": "80392f16a8bcf337",
         "type": "tabs",
         "children": [
           {
-            "id": "cdbba1f16e0659f1",
+            "id": "27d60bfbacf363b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "22.10.25 - Python Core"
             }
+          },
+          {
+            "id": "d87d2e904cd28c5d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "right": {
     "id": "5835c5aa788fb682",
@@ -167,22 +177,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "cdbba1f16e0659f1",
+  "active": "d87d2e904cd28c5d",
   "lastOpenFiles": [
-    "Teams/22.10.25/1761156437.png",
+    "Teams/22.10.25/22.10.25 - Python Core.md",
+    "Global/Python/Colored & Formatted Output.md",
+    "Global/Python/Static Type Annotation.md",
+    "Global/Python/Print().md",
+    "Global/Python/Left & Right Align.md",
+    "Global/Python/Data Types.md",
+    "Global/Python/Backslash Character Definitions.md",
+    "Teams/22.10.25/Images/1761146563.png",
+    "Teams/22.10.25/Images",
+    "Global/Python",
+    "Global",
+    "Teams/22.10.25/Images/1761156437.png",
     "Hometask/22.10.25/main.py",
     "Hometask/22.10.25",
-    "Teams/22.10.25/1761152234.png",
-    "Teams/22.10.25/1761151197.png",
-    "Teams/22.10.25/1761150815.png",
-    "Teams/22.10.25/1761150710.png",
-    "Teams/22.10.25/1761149579.png",
-    "Teams/22.10.25/1761149170.png",
-    "Teams/22.10.25/1761147510.png",
-    "Teams/22.10.25/1761147437.png",
-    "Teams/22.10.25/1761147393.png",
-    "Teams/22.10.25/1761146786.png",
-    "Teams/22.10.25/22.10.25 - Python Core.md",
+    "Teams/22.10.25/Images/1761152234.png",
+    "Teams/22.10.25/Images/1761151197.png",
+    "Teams/22.10.25/Images/1761150815.png",
+    "Teams/22.10.25/Images/1761150710.png",
+    "Teams/22.10.25/Images/1761149579.png",
+    "Teams/22.10.25/Images/1761149170.png",
+    "Teams/22.10.25/Images/1761147510.png",
+    "Teams/22.10.25/Images/1761147437.png",
     "README.md",
     "Teams/22.10.25/Project/main.py",
     "Teams/22.10.25/Project",
@@ -205,15 +223,6 @@
     "EDMaps/Українська Література/03. Реалізм в інших видах мистецтв/03. Реалізм в інших видах мистецтв.md",
     "EDMaps/Українська Література/02. Реалістична проза зарубіжжя/02. Реалістична проза зарубіжжя.md",
     "EDMaps/Українська Література/01. Реалістична українська проза/01. Реалістична українська проза.md",
-    "EDMaps/Хімія/25. Хімічна лабораторія алканів/25. Хімічна лабораторія алканів.md",
-    "EDMaps/Хімія/24. Фізичні властивості алканів/24. Фізичні властивості алканів.md",
-    "EDMaps/Хімія/22. Брати та сестри/22. Брати та сестри.md",
-    "EDMaps/Хімія/21. Від А до Б/21. Від А до Б.md",
-    "EDMaps/Хімія/05. Етанол, метанол, гліцерол — представники спиртів/05. Етанол, метанол, гліцерол — представники спиртів.md",
-    "EDMaps/Хімія/04. Оксигеновмісні органічні речовини/04. Оксигеновмісні органічні речовини.md",
-    "EDMaps/Українська Література/114. Символи долі в «Камінному хресті»/~syncthing~114. Символи долі в «Камінному хресті».md.tmp",
-    "EDMaps/Громадянська Освіта/15. Слухай. Відчуй. Вислови/~syncthing~15. Слухай. Відчуй. Вислови.md.tmp",
-    "EDMaps/Фізика/27. Застосування законів Ньютона/~syncthing~27. Застосування законів Ньютона.md.tmp",
-    "Teams/Live School/Українська Мова/Коли одне слово відкриває світи/~syncthing~Коли одне слово відкриває світи (омоніми).md.tmp"
+    "EDMaps/Українська Література/114. Символи долі в «Камінному хресті»/~syncthing~114. Символи долі в «Камінному хресті».md.tmp"
   ]
 }
