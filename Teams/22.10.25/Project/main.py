@@ -100,25 +100,30 @@ print('\033[0m') # reset color to defaults
 # |/     |/
 # """)
 
-class Color:
-    def __init__(self):
-        self.green = '\033[32m'
-        self.blue = '\033[34m'
-        self.close_symbol = '\033[0m'
 
-    def color_text(self, color, text):
-        return f'{color}{text}{self.close_symbol}'
+# class Color:
+#     def __init__(self):
+#         self.green = '\033[32m'
+#         self.blue = '\033[34m'
+#         self.close_symbol = '\033[0m'
 
-color = Color()
+#     def color_text(self, color, text):
+#         return f'{color}{text}{self.close_symbol}'
 
-print(
-fr"""
-|\   \\\\__     {color.color_text(color.blue, 'o')}
-| \_/    {color.color_text(color.green, 'o')} \    {color.color_text(color.blue, 'o')}
-> _   (( <_  {color.color_text(color.blue, 'o')}
-| / \__+___/
-|/     |/
-""")
+# color = Color()
+
+# print(
+# fr"""
+# |\   \\\\__     {color.color_text(color.blue, 'o')}
+# | \_/    {color.color_text(color.green, 'o')} \    {color.color_text(color.blue, 'o')}
+# > _   (( <_  {color.color_text(color.blue, 'o')}
+# | / \__+___/
+# |/     |/
+# """)
 
 # ---
 
+print(f'|{'Текст':<10}  |')
+print(f'|{'Текст':>10}  |')
+print(f"| {'Маська':<10} | {'760':>6} грн. |")
+print(f"| {'Буся':<10} | {'8500':>6} грн. |")
