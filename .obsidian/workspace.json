@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "8516157c6fd451c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "758fa278326b2b76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdbba1f16e0659f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teams/22.10.25/22.10.25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "22.10.25"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d33c58f223224358",
+    "type": "split",
+    "children": [
+      {
+        "id": "c78e1af511f37a45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02b63814b472f01f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "69adefc53146594d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[id: 334295]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d41477be8cf84c19",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5
+  },
+  "right": {
+    "id": "5835c5aa788fb682",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a8cfa2e0326049e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8406181d3f58c16c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Teams/Live School/Історія/1916-1917. Вступ у війну США/1916-1917. Вступ у війну США.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 1916-1917. Вступ у війну США"
+            }
+          },
+          {
+            "id": "52612dc24be1d28a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Teams/Live School/Англійська Мова/12.09/12.09 speaking club.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 12.09 speaking club"
+            }
+          },
+          {
+            "id": "2d6f6724639028d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "84e68d22826cc1e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cdbba1f16e0659f1",
+  "lastOpenFiles": [
+    "Teams/22.10.25/22.10.25.md",
+    "Teams/Live School/Фізика/Рух тіла горизонтально й під кутом до горизонту/Рух тіла горизонтально й під кутом до горизонту.md",
+    "Teams/Live School/Фізика/Повторення, контрольна робота/Повторення, контрольна робота.md",
+    "Teams/Live School/Фізика/Повторення, контрольна робота/1761121747.png",
+    "Teams/Live School/Фізика/Повторення, контрольна робота/1761120239.png",
+    "Teams/Live School/Фізика/Повторення, контрольна робота/1761119995.png",
+    "Teams/Live School/Фізика/Повторення, контрольна робота/1761119972.png",
+    "Teams/Live School/Фізика/Повторення, контрольна робота/1761119891.png",
+    "Teams/Live School/Фізика/Повторення, контрольна робота/1761119835.png",
+    "Videos/Pasted image 20251022105307.png",
+    "Teams/Live School/Фізика/Повторення, контрольна робота/1761119564.png",
+    "Teams/Live School/Фізика/Повторення, контрольна робота/1761119535.png",
+    "Teams/Live School/Фізика/Повторення, контрольна робота/1761119482.png",
+    "Teams/Live School/Фізика/Повторення, контрольна робота",
+    "EDMaps/Алгебра/09. Як приборкати ірраціональні числа в дробах/09. Як приборкати ірраціональні числа в дробах.md",
+    "EDMaps/Алгебра/08. Як знайти корінь і розкрити секрет степеня/08. Як знайти корінь і розкрити секрет степеня.md",
+    "EDMaps/Алгебра/07. Секрети цілих показників у функціях/07. Секрети цілих показників у функціях.md",
+    "EDMaps/Алгебра/06. Крок за кроком у світ степеневих функцій/06. Крок за кроком у світ степеневих функцій.md",
+    "EDMaps/Алгебра/05. Гра з дзеркалом парність і непарність функцій/05. Гра з дзеркалом парність і непарність функцій.md",
+    "EDMaps/Алгебра/04. Мистецтво побудови геометричні секрети функцій/04. Мистецтво побудови геометричні секрети функцій.md",
+    "EDMaps/Алгебра/03. Знаходимо вершини та глибини графіків/03. Знаходимо вершини та глибини графіків.md",
+    "EDMaps/Геометрія/07. Головоломки простору/07. Головоломки простору.md",
+    "EDMaps/Геометрія/06. Перехрестя простору/06. Перехрестя простору.md",
+    "EDMaps/Геометрія/05. Світ прямих/05. Світ прямих.md",
+    "EDMaps/Геометрія/04. Аксіоми vs Задачі Чи зможеш виграти цей двобій/04. Аксіоми vs Задачі Чи зможеш виграти цей двобій.md",
+    "EDMaps/Українська Література/04. Література під гнітом імперій/04. Література під гнітом імперій.md",
+    "EDMaps/Українська Література/03. Реалізм в інших видах мистецтв/03. Реалізм в інших видах мистецтв.md",
+    "EDMaps/Українська Література/02. Реалістична проза зарубіжжя/02. Реалістична проза зарубіжжя.md",
+    "EDMaps/Українська Література/01. Реалістична українська проза/01. Реалістична українська проза.md",
+    "EDMaps/Хімія/25. Хімічна лабораторія алканів/25. Хімічна лабораторія алканів.md",
+    "EDMaps/Хімія/24. Фізичні властивості алканів/24. Фізичні властивості алканів.md",
+    "EDMaps/Хімія/22. Брати та сестри/22. Брати та сестри.md",
+    "EDMaps/Хімія/21. Від А до Б/21. Від А до Б.md",
+    "EDMaps/Хімія/05. Етанол, метанол, гліцерол — представники спиртів/05. Етанол, метанол, гліцерол — представники спиртів.md",
+    "EDMaps/Хімія/04. Оксигеновмісні органічні речовини/04. Оксигеновмісні органічні речовини.md",
+    "EDMaps/Хімія/03. Хімія з подвійним змістом/03. Хімія з подвійним змістом.md",
+    "EDMaps/Програмування на Python/16. Числа в Python та робота з ними/16. Числа в Python та робота з ними.md",
+    "EDMaps/Українська Література/114. Символи долі в «Камінному хресті»/~syncthing~114. Символи долі в «Камінному хресті».md.tmp",
+    "EDMaps/Громадянська Освіта/15. Слухай. Відчуй. Вислови/~syncthing~15. Слухай. Відчуй. Вислови.md.tmp",
+    "EDMaps/Фізика/27. Застосування законів Ньютона/~syncthing~27. Застосування законів Ньютона.md.tmp",
+    "Teams/Live School/Українська Мова/Коли одне слово відкриває світи/~syncthing~Коли одне слово відкриває світи (омоніми).md.tmp",
+    "Teams/Live School/Українська Мова/Коли одне слово відкриває світи/~syncthing~1760942174.png.tmp",
+    "Teams/Live School/Українська Мова/Коли одне слово відкриває світи/~syncthing~1760941139.png.tmp",
+    "Teams/Live School/Українська Мова/Коли одне слово відкриває світи",
+    "Teams/Live School/Українська Мова/Фразеологічні групи/~syncthing~Фразеологічні групи.md.tmp",
+    "Teams/Live School/Українська Мова/Фразеологічні групи/~syncthing~1760688815.png.tmp"
+  ]
+}
