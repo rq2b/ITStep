@@ -75,5 +75,28 @@ print('Python\n', '='*6, sep='') # Варіант 2 (sep)
 Nothing will work unless you do
 """
 
+"""
 print('Nothing', 'will', 'work - ', sep='*', end='')
 print('unless', 'you', 'do', sep='_')
+"""
+
+# ---
+
+"""
+print('Колір\n' + '\033[33m+'*5)
+print('\033[0m') # reset color to defaults
+print('Колір\n' + '\033[43m+'*5, end='')
+print('\033[0m') # reset color to defaults
+"""
+
+# ---
+
+print(
+"""
+|\   \\\\__     o
+| \_/    o \    o 
+> _   (( <_  oo  
+| / \__+___/      
+|/     |/
+"""
+)
