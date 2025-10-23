@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "80392f16a8bcf337",
+        "id": "d26b4a73991f232d",
         "type": "tabs",
         "children": [
           {
-            "id": "27d60bfbacf363b4",
+            "id": "5d5b7598b30e3dab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teams/22.10.25/22.10.25 - Python Core.md",
+                "file": "Tasks/22.10.25/22.10.25 - Python Core.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "22.10.25 - Python Core"
             }
-          },
-          {
-            "id": "d87d2e904cd28c5d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,37 +166,39 @@
       "bases:Create new base": false
     }
   },
-  "active": "d87d2e904cd28c5d",
+  "active": "5d5b7598b30e3dab",
   "lastOpenFiles": [
+    "Global/Python/Static Type Annotation.md",
+    "Projects",
+    "New folder",
+    "Tasks/22.10.25/22.10.25 - Python Core.md",
+    "README.md",
+    "Tasks/22.10.25/Lesson/main.py",
+    "Tasks/22.10.25/Images/1761156437.png",
+    "Tasks/22.10.25/Images/1761151197.png",
+    "Tasks/22.10.25/Hometask/main.py",
+    "Tasks/22.10.25/Images/1761152234.png",
+    "Tasks/22.10.25/Images/1761150815.png",
+    "Tasks/22.10.25/Images/1761147510.png",
+    "Tasks/22.10.25/Images/1761150710.png",
+    "Tasks/22.10.25/Images/1761147393.png",
+    "Tasks/22.10.25/Images/1761149579.png",
+    "Tasks/22.10.25/Images/1761147437.png",
+    "Tasks/22.10.25/Images/1761149170.png",
+    "Tasks/22.10.25/Lesson",
+    "Tasks/22.10.25/Hometask",
+    "Tasks/22.10.25/Images",
+    "Tasks/22.10.25",
+    "Tasks",
+    "Teams/22.10.25/Lesson/main.py",
     "Teams/22.10.25/22.10.25 - Python Core.md",
     "Global/Python/Colored & Formatted Output.md",
-    "Global/Python/Static Type Annotation.md",
     "Global/Python/Print().md",
     "Global/Python/Left & Right Align.md",
     "Global/Python/Data Types.md",
     "Global/Python/Backslash Character Definitions.md",
-    "Teams/22.10.25/Images/1761146563.png",
-    "Teams/22.10.25/Images",
-    "Global/Python",
-    "Global",
-    "Teams/22.10.25/Images/1761156437.png",
-    "Hometask/22.10.25/main.py",
-    "Hometask/22.10.25",
-    "Teams/22.10.25/Images/1761152234.png",
-    "Teams/22.10.25/Images/1761151197.png",
-    "Teams/22.10.25/Images/1761150815.png",
-    "Teams/22.10.25/Images/1761150710.png",
-    "Teams/22.10.25/Images/1761149579.png",
-    "Teams/22.10.25/Images/1761149170.png",
-    "Teams/22.10.25/Images/1761147510.png",
-    "Teams/22.10.25/Images/1761147437.png",
-    "README.md",
-    "Teams/22.10.25/Project/main.py",
-    "Teams/22.10.25/Project",
-    "Teams/22.10.25/New folder",
     "Teams/Live School/Фізика/Рух тіла горизонтально й під кутом до горизонту/Рух тіла горизонтально й під кутом до горизонту.md",
     "Teams/Live School/Фізика/Повторення, контрольна робота/Повторення, контрольна робота.md",
-    "Teams/Live School/Фізика/Повторення, контрольна робота",
     "EDMaps/Алгебра/09. Як приборкати ірраціональні числа в дробах/09. Як приборкати ірраціональні числа в дробах.md",
     "EDMaps/Алгебра/08. Як знайти корінь і розкрити секрет степеня/08. Як знайти корінь і розкрити секрет степеня.md",
     "EDMaps/Алгебра/07. Секрети цілих показників у функціях/07. Секрети цілих показників у функціях.md",
@@ -221,8 +212,6 @@
     "EDMaps/Геометрія/04. Аксіоми vs Задачі Чи зможеш виграти цей двобій/04. Аксіоми vs Задачі Чи зможеш виграти цей двобій.md",
     "EDMaps/Українська Література/04. Література під гнітом імперій/04. Література під гнітом імперій.md",
     "EDMaps/Українська Література/03. Реалізм в інших видах мистецтв/03. Реалізм в інших видах мистецтв.md",
-    "EDMaps/Українська Література/02. Реалістична проза зарубіжжя/02. Реалістична проза зарубіжжя.md",
-    "EDMaps/Українська Література/01. Реалістична українська проза/01. Реалістична українська проза.md",
-    "EDMaps/Українська Література/114. Символи долі в «Камінному хресті»/~syncthing~114. Символи долі в «Камінному хресті».md.tmp"
+    "EDMaps/Українська Література/02. Реалістична проза зарубіжжя/02. Реалістична проза зарубіжжя.md"
   ]
 }
